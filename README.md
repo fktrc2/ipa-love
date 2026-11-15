@@ -48,6 +48,26 @@
 
 ---
 
+## Скриншоты
+
+<div align="center">
+  <img src="assets/screenshots/home.jpg" alt="Главная: iPhone, покупки и очередь загрузок" width="100%">
+</div>
+
+<div align="center">
+  <img src="assets/screenshots/search.jpg" alt="Поиск приложений в App Store" width="49%">
+  <img src="assets/screenshots/new-iphone.jpg" alt="Восстановление приложений на новом iPhone" width="49%">
+</div>
+
+<div align="center">
+  <img src="assets/screenshots/queue.jpg" alt="Очередь загрузок" width="49%">
+  <img src="assets/screenshots/library.jpg" alt="Библиотека IPA" width="49%">
+</div>
+
+> На скриншотах — демонстрационные данные: тестовый аккаунт, устройство и приложения.
+
+---
+
 ## Установка
 
 ### Windows 10/11 (x64)
