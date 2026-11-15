@@ -12,7 +12,7 @@
 [![Последняя версия](https://img.shields.io/github/v/release/fktrc2/ipa-love?style=for-the-badge&label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=E0354B)](https://github.com/fktrc2/ipa-love/releases/latest)
 ![Windows](https://img.shields.io/badge/Windows_10%2F11-x64-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS_11%2B-Apple_Silicon-111111?style=for-the-badge&logo=apple&logoColor=white)
-[![Скачали](https://img.shields.io/github/downloads/fktrc2/ipa-love/total?style=for-the-badge&label=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D0%BB%D0%B8&color=2EA44F)](https://github.com/fktrc2/ipa-love/releases)
+[![Скачали](https://img.shields.io/github/downloads/fktrc2/ipa-love/total?style=for-the-badge&label=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D0%BB%D0%B8&color=2EA44F&v=2)](https://github.com/fktrc2/ipa-love/releases)
 
 </div>
 
@@ -51,17 +51,17 @@
 ## Скриншоты
 
 <div align="center">
-  <img src="assets/screenshots/home.jpg" alt="Главная: iPhone, покупки и очередь загрузок" width="100%">
+  <a href="assets/screenshots/home.jpg"><img src="assets/screenshots/home.jpg" alt="Главная: iPhone, покупки и очередь загрузок" width="100%"></a>
 </div>
 
 <div align="center">
-  <img src="assets/screenshots/search.jpg" alt="Поиск приложений в App Store" width="49%">
-  <img src="assets/screenshots/new-iphone.jpg" alt="Восстановление приложений на новом iPhone" width="49%">
+  <a href="assets/screenshots/search.jpg"><img src="assets/screenshots/search.jpg" alt="Поиск приложений в App Store" width="49%"></a>
+  <a href="assets/screenshots/new-iphone.jpg"><img src="assets/screenshots/new-iphone.jpg" alt="Восстановление приложений на новом iPhone" width="49%"></a>
 </div>
 
 <div align="center">
-  <img src="assets/screenshots/queue.jpg" alt="Очередь загрузок" width="49%">
-  <img src="assets/screenshots/library.jpg" alt="Библиотека IPA" width="49%">
+  <a href="assets/screenshots/queue.jpg"><img src="assets/screenshots/queue.jpg" alt="Очередь загрузок" width="49%"></a>
+  <a href="assets/screenshots/library.jpg"><img src="assets/screenshots/library.jpg" alt="Библиотека IPA" width="49%"></a>
 </div>
 
 > На скриншотах — демонстрационные данные: тестовый аккаунт, устройство и приложения.
